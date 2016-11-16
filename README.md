@@ -2,7 +2,7 @@
 Encrypted in various languages
 
 
-### Java
+## Java
 - Required Java 8 Higher
 
 #### Usage
@@ -16,4 +16,21 @@ $ java CipherSample
 ```
 CAX/zDb/Vdu/063a7fE+qQ==
 hello
+```
+
+## PHP
+- Required PHP 5.1.6
+
+#### Usage
+
+```
+$ php CipherSample.php
+```
+
+
+#### Result
+```
+Original Data : hello
+Encrypted Data : CAX/zDb/Vdu/063a7fE+qQ==
+Decrypted Data : hello
 ```
