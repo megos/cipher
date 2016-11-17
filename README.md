@@ -34,3 +34,24 @@ Original Data : hello
 Encrypted Data : CAX/zDb/Vdu/063a7fE+qQ==
 Decrypted Data : hello
 ```
+
+
+## Perl
+#### Require
+- perl 5.8.8
+- Crypt::ECB
+- Crypt::Rijndael
+
+#### Usage
+
+```
+$ perl CipherSample.pl
+```
+
+
+#### Result
+```
+Plain text  : hello
+Cipher text : CAX/zDb/Vdu/063a7fE+qQ==
+Decrypt text: hello
+```
