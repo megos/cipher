@@ -1,6 +1,10 @@
 # cipher
 Encrypted in various languages
 
+## Table of contents
+- [Java](#java)
+- [PHP](#php)
+- [Perl](#perl)
 
 ## Java
 - Required Java 8 Higher
