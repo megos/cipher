@@ -3,6 +3,7 @@ Encrypted in various languages
 
 ## Table of contents
 - [Java](#java)
+- [Ruby](#ruby)
 - [PHP](#php)
 - [Perl](#perl)
 
@@ -20,6 +21,22 @@ $ java CipherSample
 ```
 CAX/zDb/Vdu/063a7fE+qQ==
 hello
+```
+
+## Ruby
+- Required Ruby 2.0.0
+
+#### Usage
+
+```
+$ ruby CipherSample.rb
+```
+
+#### Result
+```
+"Original: hello"
+"Encript : CAX/zDb/Vdu/063a7fE+qQ==\n"
+"Decript : hello"
 ```
 
 ## PHP
